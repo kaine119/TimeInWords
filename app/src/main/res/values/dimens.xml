@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_hours_text_size">40dp</dimen>
+    <dimen name="digital_hours_text_size_round">45dp</dimen>
+    <dimen name="digital_joiner_text_size">10dp</dimen>
+    <dimen name="digital_joiner_text_size_round">15dp</dimen>
+    <dimen name="digital_minutes_text_size">20dp</dimen>
+    <dimen name="digital_minutes_text_size_round">25dp</dimen>
+    <dimen name="digital_full_time_text_size">5dp</dimen>
+    <dimen name="digital_full_time_text_size_round">10dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>dimen>
+</resources>
